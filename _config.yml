@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: POCH1's homepage
-description: Testing LAB 3!
+deploy:
+  type: git
+  repo: https://github.com/username/username.github.io.git
+  branch: master
