@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repo: https://github.com/username/username.github.io.git
+  repo: https://github.com/imp0ch1/imp0ch1.github.io.git
   branch: master
